@@ -21,11 +21,22 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20180918192606.1" a="E"><vh>第一週(week1)9/14</vh>
+<v t="leo.20180918192606.2" a="E"><vh>第一週(week1)課程內容</vh>
+<v t="leo.20180918192606.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20180918192606.4" a="E"><vh>第一週(week1)上課心得</vh>
+<v t="leo.20180918192606.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20180918201244.1" a="E"><vh>第一週(week1)操作影片</vh>
+<v t="leo.20180918201244.2"><vh>操作影片</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -124,12 +135,11 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40423252 謝孟哲 2018個人簡報
-
+<t tx="leo.20180827201621.10">## &lt;b&gt;&lt;font color="#FFFF00"&gt;40423252謝孟哲-2018個人簡報&lt;/font&gt;&lt;/b&gt;
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40423252-謝孟哲](https://github.com/mdecadp2018/site-40423252/tree/gh-pages)
 &lt;/small&gt;
 
 [2018 Fall 分組網誌](./../blog/index.html)
@@ -325,6 +335,59 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20180918192606.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20180918192606.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180918192606.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1.進入Github帳號後，連結至[mdecadp2018](https://classroom.github.com/a/fGqXU9kO )，以領取期中作業。
+
+* 2.建立個人課程網頁[40423252](https://github.com/mdecadp2018/site-40423252)。
+
+* 3.使用reveal編輯投影片、使用指令python wsgi.py編輯靜態網頁、使用pelican編輯網誌。
+
+* 4.每週都要錄製操作影片以及做作業並上傳。</t>
+<t tx="leo.20180918192606.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180918192606.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課心得&lt;/font&gt;&lt;/b&gt;
+
+這學期是以重修生的身分來修這門課，或許是因為重修的關係，所以這次上課是有上手許多，上課過程中的操作步驟也都很熟悉，只是有些操作指令有遺忘，但也很快就解決了，本週雖然是第一次上課，但也因為有先前不及格的案例，所以不敢有任何絲毫懈怠，畢竟之前就是都把所有東西累積到最後一刻才趕不完，所以這學期將會緊跟著老師上的進度及一步一步的去完成這學期的老師交代的東西。</t>
+<t tx="leo.20180918201244.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20180918201244.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)操作影片&lt;/font&gt;&lt;/b&gt;
 </t>
 </tnodes>
 </leo_file>

@@ -388,6 +388,8 @@ make.start()
 						
 </t>
 <t tx="leo.20180918201244.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)操作影片&lt;/font&gt;&lt;/b&gt;
-</t>
+
+&lt;iframe src="https://player.vimeo.com/video/290473536" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/290473536"&gt;2018-09-18_20-44-28&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 </tnodes>
 </leo_file>

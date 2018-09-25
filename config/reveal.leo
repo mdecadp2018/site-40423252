@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180918192606.1"><vh>第一週(week1)9/14</vh>
+<v t="leo.20180918192606.1" a="E"><vh>第一週(week1)9/14</vh>
 <v t="leo.20180918192606.2" a="E"><vh>第一週(week1)課程內容</vh>
 <v t="leo.20180918192606.3"><vh>內容</vh></v>
 </v>
@@ -425,15 +425,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180921103047.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20180921103047.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第二週(week2)上課內容&lt;/font&gt;&lt;/b&gt;
 
-* 1.進入Github帳號後，連結至[mdecadp2018](https://classroom.github.com/a/fGqXU9kO )，以領取期中作業。
+* 1.進入Github帳號後，進到Setting將內定的branch:master設為gf-pages方便我們之後的改版都是在此分支上做。
 
-* 2.建立個人課程網頁[40423252](https://github.com/mdecadp2018/site-40423252)。
+* 2.建立Pelican網誌[40423252](https://mdecadp2018.github.io/site-40423252/blog/)。
 
-* 3.使用reveal編輯投影片、使用指令python wsgi.py編輯靜態網頁、使用pelican編輯網誌。
+* 3.回家錄製練習onshapeWeek1的作業過程影片存入CMSimfly網站、Reveal 投影片 與 Pelican Blog 中。
 
-* 4.每週都要錄製操作影片以及做作業並上傳。
+* 4.說明如何以Share X截圖並編輯CMSimfly網站、如何維護reveal＆blog。
 
 </t>
 <t tx="leo.20180921103047.4">&lt;section data-markdown&gt;
@@ -447,9 +447,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180921103047.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20180921103047.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第二週(week2)上課心得&lt;/font&gt;&lt;/b&gt;
 
-這學期是以重修生的身分來修這門課，或許是因為重修的關係，所以這次上課是有上手許多，上課過程中的操作步驟也都很熟悉，只是有些操作指令有遺忘，但也很快就解決了，本週雖然是第一次上課，但也因為有先前不及格的案例，所以不敢有任何絲毫懈怠，畢竟之前就是都把所有東西累積到最後一刻才趕不完，所以這學期將會緊跟著老師上的進度及一步一步的去完成這學期的老師交代的東西。
+本週上課學到如何在Pelican裡編輯blog還有如何利用ShareX截圖並編輯CMSimfly網站外還有如何維護reveal＆blog；而在這週上課時忘記在程式碼輸入python wsgi.py來進入這個環境去作業導致最後上傳完畢後想要編輯CMSimfly網站而進不去 (https://127.0.0.1:8443/) 這個網站進行修改，而在詢問老師過後也得到了解決，因為這個失誤不僅讓我往後要謹慎每個操作步驟，也學習到了此失誤的解決方案。
 
 </t>
 <t tx="leo.20180921103047.6">&lt;section data-markdown&gt;
@@ -463,10 +463,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180921103047.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)操作影片&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20180921103047.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第二週(week2)onshape練習操作影片&lt;/font&gt;&lt;/b&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/290473536" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/290473536"&gt;2018-09-18_20-44-28&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/291666914" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/291666914"&gt;2018-09-25_17-22-12&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 </tnodes>

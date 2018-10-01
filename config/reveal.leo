@@ -28,17 +28,20 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180918192606.1" a="E"><vh>第一週(week1)9/14</vh>
-<v t="leo.20180918192606.2" a="E"><vh>第一週(week1)課程內容</vh>
+<v t="leo.20180918192606.2"><vh>第一週(week1)課程內容</vh>
 <v t="leo.20180918192606.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20180918192606.4" a="E"><vh>第一週(week1)上課心得</vh>
+<v t="leo.20180918192606.4"><vh>第一週(week1)上課心得</vh>
 <v t="leo.20180918192606.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20180918201244.1" a="E"><vh>第一週(week1)操作影片</vh>
-<v t="leo.20180918201244.2"><vh>操作影片</vh></v>
+<v t="leo.20180918201244.1" a="E"><vh>第一週(week1)課堂操作影片</vh>
+<v t="leo.20180918201244.2"><vh>課堂操作影片</vh></v>
+</v>
+<v t="leo.20181001145542.1" a="E"><vh>第一週(week1)作業操作影片</vh>
+<v t="leo.20181001145542.3"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20180921103047.1" a="E"><vh>第二週(week2)9/21</vh>
+<v t="leo.20180921103047.1"><vh>第二週(week2)9/21</vh>
 <v t="leo.20180921103047.2" a="E"><vh>第二週(week2)課程內容</vh>
 <v t="leo.20180921103047.3"><vh>內容</vh></v>
 </v>
@@ -402,11 +405,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180918201244.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)操作影片&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20180918201244.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)課堂操作影片&lt;/font&gt;&lt;/b&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/290473536" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/290473536"&gt;2018-09-18_20-44-28&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+[onshape week1 homework](https://youtu.be/2YZXDjA6tXs)
 </t>
 <t tx="leo.20180921103047.1">&lt;section&gt;
 @others
@@ -468,6 +472,21 @@ make.start()
 &lt;iframe src="https://player.vimeo.com/video/291666914" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/291666914"&gt;2018-09-25_17-22-12&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
+</t>
+<t tx="leo.20181001145542.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181001145542.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第一週(week1)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+[onshape week1 homework](https://youtu.be/2YZXDjA6tXs)
 </t>
 </tnodes>
 </leo_file>

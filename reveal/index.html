@@ -74,6 +74,71 @@ Created by [40423252-謝孟哲](https://github.com/mdecadp2018/site-40423252/tre
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
+# 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+## 使用 iframe 導入影片
+
+### 導入影片 template
+
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </script>
+</section>
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
 ## <b><font color="#00DDDD">第一週(week1)上課內容</font></b>
 
 * 1.進入Github帳號後，連結至[mdecadp2018](https://classroom.github.com/a/fGqXU9kO )，以領取期中作業。
@@ -261,12 +326,17 @@ Created by [40423252-謝孟哲](https://github.com/mdecadp2018/site-40423252/tre
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# 數學符號與方程式
+## <b><font color="#00DDDD">第四週(week4)上課內容</font></b>
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+* 1.複習CMSimfly網站＆reveal投影片＆pelican部落格之編輯與維護複習。
 
-$$I = \int \rho R^{2} dV$$
+* 2.學習網站點選之符號：[輸入名稱]、(輸入網址)。
+
+* 3.介紹onshape操作方式。
+
+* 4.介紹Feature script
+
+* 5.回家作業：onshape繪製並錄影
     </script>
 </section>
 
@@ -276,32 +346,10 @@ $$I = \int \rho R^{2} dV$$
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+## <b><font color="#00DDDD">第四週(week4)上課心得</font></b>
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+
+
     </script>
 </section>
 
@@ -310,18 +358,32 @@ make.start()
 						
 <section data-markdown>
     <script type="text/template">
-## 使用 iframe 導入影片
+<!-- 請注意, @others 不可以內縮 -->
+## <b><font color="#00DDDD">第四週(week4)上課內容操作影片</font></b>
 
-### 導入影片 template
 
-<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </script>
 </section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## <b><font color="#00DDDD">第四週(week4)作業操作影片</font></b>
+
+
+
+    </script>
+</section>
+
 
 
 						
 </section>
 
+						
 </div>
 
 </div>

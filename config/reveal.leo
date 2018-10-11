@@ -66,14 +66,14 @@
 <v t="leo.20180921103047.7"><vh>操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181001201221.1"><vh>第三週(week3)9/28</vh>
+<v t="leo.20181001201221.1" a="E"><vh>第三週(week3)9/28</vh>
 <v t="leo.20181001201221.2" a="E"><vh>第三週(week3)課程內容</vh>
 <v t="leo.20181001201221.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20181001201221.4" a="E"><vh>第三週(week3)上課心得</vh>
 <v t="leo.20181001201221.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181001201221.6"><vh>第三週(week3)上課操作影片</vh>
+<v t="leo.20181001201221.6" a="E"><vh>第三週(week3)上課操作影片</vh>
 <v t="leo.20181001201221.7"><vh>操作影片</vh></v>
 </v>
 <v t="leo.20181001201636.1" a="E"><vh>第三週(week3)作業操作影片</vh>
@@ -81,16 +81,19 @@
 </v>
 </v>
 <v t="leo.20181005091514.1" a="E"><vh>第四週(week4)10/05</vh>
-<v t="leo.20181005091514.2" a="E"><vh>第四週(week4)課程內容</vh>
+<v t="leo.20181005091514.2"><vh>第四週(week4)課程內容</vh>
 <v t="leo.20181005091514.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181005091514.4" a="E"><vh>第四週(week4)上課心得</vh>
+<v t="leo.20181005091514.4"><vh>第四週(week4)上課心得</vh>
 <v t="leo.20181005091514.5"><vh>心得</vh></v>
 </v>
 <v t="leo.20181005091514.6" a="E"><vh>第四週(week4)上課操作影片</vh>
 <v t="leo.20181005091514.7"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181005091514.8" a="E"><vh>第四週(week4)作業操作影片</vh>
+<v t="leo.20181011205516.1" a="E"><vh>第四週(week4)上課操作影片</vh>
+<v t="leo.20181011205516.2"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181005091514.8"><vh>第四週(week4)作業操作影片</vh>
 <v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
@@ -652,7 +655,7 @@ make.start()
 </t>
 <t tx="leo.20181005091514.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)上課心得&lt;/font&gt;&lt;/b&gt;
 
-
+本週上課內容主要是在複習前幾週所教的內容像是CMSimfly、reveal、blog維護，而本週上課老師有說要在課堂繪製onshape 1-1 Lesson裡面的四張圖做為練習，至於目前為止每週只有更新投影片跟CMSimfly網站，而blog的編輯目前有些許概念，但仍有不熟的地方所以還在摸索中，等熟悉之後會盡快補上更新內容。
 
 </t>
 <t tx="leo.20181005091514.6">&lt;section data-markdown&gt;
@@ -666,9 +669,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005091514.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)上課內容操作影片&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181005091514.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
 
-
+&lt;iframe src="https://player.vimeo.com/video/294568623" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/294568623"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week4 上課內容操作影片&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="leo.20181005091514.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -685,6 +689,22 @@ make.start()
 
 
 
+</t>
+<t tx="leo.20181011205516.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181011205516.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)上課內容操作影片parrt2&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/294568993" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/294568993"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week4 上課內容操作影片 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>

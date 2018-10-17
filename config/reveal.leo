@@ -93,8 +93,28 @@
 <v t="leo.20181011205516.1" a="E"><vh>第四週(week4)上課操作影片</vh>
 <v t="leo.20181011205516.2"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181005091514.8"><vh>第四週(week4)作業操作影片</vh>
+<v t="leo.20181005091514.8" a="E"><vh>第四週(week4)作業操作影片</vh>
 <v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181018021739.1" a="E"><vh>第五週(week5)10/12</vh>
+<v t="leo.20181018021739.2"><vh>第五週(week5)課程內容</vh>
+<v t="leo.20181018021739.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181018021739.4"><vh>第五週(week5)上課心得</vh>
+<v t="leo.20181018021739.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181018021739.6" a="E"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021739.7"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181018021739.8" a="E"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021739.9"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181018021840.1" a="E"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021840.2"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181018021739.10" a="E"><vh>第五週(week5)作業操作影片</vh>
+<v t="leo.20181018021739.11"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -687,7 +707,7 @@ make.start()
 </t>
 <t tx="leo.20181005091514.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
-
+會在期中前找時間趕緊補上!!
 
 </t>
 <t tx="leo.20181011205516.1">&lt;section data-markdown&gt;
@@ -705,6 +725,109 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/294568993" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/294568993"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week4 上課內容操作影片 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20181018021739.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181018021739.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018021739.11">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+會在期中前找時間趕緊補上!!
+
+</t>
+<t tx="leo.20181018021739.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018021739.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1更新git版本(原版2.15.1.windows.2更新為2.19.1.windows.1)。
+
+* 2.複習Onshape1Week1學習要點。
+
+* 3.教學Onshape1Week2學習要點。
+
+* 4.回家作業：onshape繪製並錄影、練習閱讀Onshape裡的Lesson Plan。</t>
+<t tx="leo.20181018021739.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018021739.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第週(week5)上課心得&lt;/font&gt;&lt;/b&gt;
+
+本週上課內容是更新git版本以及複習OnshapeWeek1的學習要點以及教學OnshapeWeek2的學習要點；在回家練習2-1-Lesson Plan裡面的三個圖案時雖然看圖就可以知道怎麼繪製了，但最後還是有一一的試著讀過每個英文說明的操作步驟，雖然過程花很多時間，但也順便學習了一下英文閱讀及專業上的英文用法以及了解到電腦繪圖時所該注重的一些細節也是一舉兩得的。</t>
+<t tx="leo.20181018021739.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018021739.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/295635245" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/295635245"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week5(OnshapeWeek2 2-1 Lesson Plan)part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20181018021739.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018021739.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課內容操作影片parrt2&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/295636116" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/295636116"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week5(OnshapeWeek2 2-1 Lesson Plan)part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20181018021840.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181018021840.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課內容操作影片parrt3&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/295636193" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/295636193"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week5(OnshapeWeek2 2-1 Lesson Plan)part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 </tnodes>
 </leo_file>

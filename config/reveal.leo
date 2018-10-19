@@ -48,10 +48,10 @@
 <v t="leo.20180918201244.1"><vh>第一週(week1)課堂操作影片</vh>
 <v t="leo.20180918201244.2"><vh>課堂操作影片</vh></v>
 </v>
-<v t="leo.20181001204421.1" a="E"><vh>第一週(week1)作業操作影片</vh>
+<v t="leo.20181001204421.1"><vh>第一週(week1)作業操作影片</vh>
 <v t="leo.20181001204421.2"><vh>作業操作影片</vh></v>
 </v>
-<v t="leo.20181001145542.1" a="E"><vh>第一週(week1)作業操作影片</vh>
+<v t="leo.20181001145542.1"><vh>第一週(week1)作業操作影片</vh>
 <v t="leo.20181001145542.3"><vh>作業操作影片</vh></v>
 </v>
 </v>
@@ -66,7 +66,7 @@
 <v t="leo.20180921103047.7"><vh>操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181001201221.1" a="E"><vh>第三週(week3)9/28</vh>
+<v t="leo.20181001201221.1"><vh>第三週(week3)9/28</vh>
 <v t="leo.20181001201221.2" a="E"><vh>第三週(week3)課程內容</vh>
 <v t="leo.20181001201221.3"><vh>內容</vh></v>
 </v>
@@ -80,41 +80,55 @@
 <v t="leo.20181001201636.2"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181005091514.1" a="E"><vh>第四週(week4)10/05</vh>
-<v t="leo.20181005091514.2"><vh>第四週(week4)課程內容</vh>
+<v t="leo.20181005091514.1"><vh>第四週(week4)10/05</vh>
+<v t="leo.20181005091514.2" a="E"><vh>第四週(week4)課程內容</vh>
 <v t="leo.20181005091514.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181005091514.4"><vh>第四週(week4)上課心得</vh>
+<v t="leo.20181005091514.4" a="E"><vh>第四週(week4)上課心得</vh>
 <v t="leo.20181005091514.5"><vh>心得</vh></v>
 </v>
 <v t="leo.20181005091514.6" a="E"><vh>第四週(week4)上課操作影片</vh>
 <v t="leo.20181005091514.7"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181011205516.1" a="E"><vh>第四週(week4)上課操作影片</vh>
+<v t="leo.20181011205516.1"><vh>第四週(week4)上課操作影片</vh>
 <v t="leo.20181011205516.2"><vh>操作影片</vh></v>
 </v>
 <v t="leo.20181005091514.8" a="E"><vh>第四週(week4)作業操作影片</vh>
 <v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181018021739.1" a="E"><vh>第五週(week5)10/12</vh>
+<v t="leo.20181018021739.1"><vh>第五週(week5)10/12</vh>
 <v t="leo.20181018021739.2"><vh>第五週(week5)課程內容</vh>
 <v t="leo.20181018021739.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20181018021739.4"><vh>第五週(week5)上課心得</vh>
 <v t="leo.20181018021739.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181018021739.6" a="E"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021739.6"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021739.7"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181018021739.8" a="E"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021739.8"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021739.9"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181018021840.1" a="E"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021840.1"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021840.2"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181018021739.10" a="E"><vh>第五週(week5)作業操作影片</vh>
+<v t="leo.20181018021739.10"><vh>第五週(week5)作業操作影片</vh>
 <v t="leo.20181018021739.11"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181019100042.1" a="E"><vh>第六週(week6)10/19</vh>
+<v t="leo.20181019100042.2" a="E"><vh>第六週(week6)課程內容</vh>
+<v t="leo.20181019100042.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181019100042.4" a="E"><vh>第六週(week6)上課心得</vh>
+<v t="leo.20181019100042.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181019100042.6" a="E"><vh>第六週(week6)上課操作影片</vh>
+<v t="leo.20181019100042.7"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181019100042.12" a="E"><vh>第六週(week6)作業操作影片</vh>
+<v t="leo.20181019100042.13"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -675,7 +689,7 @@ make.start()
 </t>
 <t tx="leo.20181005091514.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)上課心得&lt;/font&gt;&lt;/b&gt;
 
-本週上課內容主要是在複習前幾週所教的內容像是CMSimfly、reveal、blog維護，而本週上課老師有說要在課堂繪製onshape 1-1 Lesson裡面的四張圖做為練習，至於目前為止每週只有更新投影片跟CMSimfly網站，而blog的編輯目前有些許概念，但仍有不熟的地方所以還在摸索中，等熟悉之後會盡快補上更新內容。
+本週上課內容主要是在複習前幾週所教的內容像是CMSimfly、reveal、blog維護，而本週上課老師有說要在課堂繪製onshape 1-1-Lesson Plan裡面的四張圖做為練習，至於目前為止每週只有更新投影片跟CMSimfly網站，而blog的編輯目前有些許概念，但仍有不熟的地方所以還在摸索中，等熟悉之後會盡快補上更新內容。
 
 </t>
 <t tx="leo.20181005091514.6">&lt;section data-markdown&gt;
@@ -767,7 +781,9 @@ make.start()
 
 * 3.教學Onshape1Week2學習要點。
 
-* 4.回家作業：onshape繪製並錄影、練習閱讀Onshape裡的Lesson Plan。</t>
+* 4.回家作業：onshape繪製並錄影、練習閱讀Onshape裡的Lesson Plan。
+
+</t>
 <t tx="leo.20181018021739.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -779,9 +795,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181018021739.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第週(week5)上課心得&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181018021739.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課心得&lt;/font&gt;&lt;/b&gt;
 
-本週上課內容是更新git版本以及複習OnshapeWeek1的學習要點以及教學OnshapeWeek2的學習要點；在回家練習2-1-Lesson Plan裡面的三個圖案時雖然看圖就可以知道怎麼繪製了，但最後還是有一一的試著讀過每個英文說明的操作步驟，雖然過程花很多時間，但也順便學習了一下英文閱讀及專業上的英文用法以及了解到電腦繪圖時所該注重的一些細節也是一舉兩得的。</t>
+本週上課內容是更新git版本以及複習OnshapeWeek1的學習要點以及教學OnshapeWeek2的學習要點；在回家練習2-1-Lesson Plan裡面的三個圖案時雖然看圖就可以知道怎麼繪製了，但最後還是有一一的試著讀過每個英文說明的操作步驟，雖然過程花很多時間，但也順便學習了一下英文閱讀及專業上的英文用法以及了解到電腦繪圖時所該注重的一些細節也是一舉兩得的。
+
+</t>
 <t tx="leo.20181018021739.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -812,7 +830,9 @@ make.start()
 <t tx="leo.20181018021739.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課內容操作影片parrt2&lt;/font&gt;&lt;/b&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/295636116" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/295636116"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week5(OnshapeWeek2 2-1 Lesson Plan)part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/295636116"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week5(OnshapeWeek2 2-1 Lesson Plan)part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
 <t tx="leo.20181018021840.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -828,6 +848,73 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/295636193" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/295636193"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week5(OnshapeWeek2 2-1 Lesson Plan)part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20181019100042.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181019100042.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181019100042.13">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+
+
+</t>
+<t tx="leo.20181019100042.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181019100042.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容&lt;/font&gt;&lt;/b&gt;
+
+
+</t>
+<t tx="leo.20181019100042.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181019100042.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課心得&lt;/font&gt;&lt;/b&gt;
+
+
+
+</t>
+<t tx="leo.20181019100042.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181019100042.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
+
 </t>
 </tnodes>
 </leo_file>

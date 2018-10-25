@@ -97,11 +97,11 @@
 <v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181018021739.1"><vh>第五週(week5)10/12</vh>
-<v t="leo.20181018021739.2"><vh>第五週(week5)課程內容</vh>
+<v t="leo.20181018021739.1" a="E"><vh>第五週(week5)10/12</vh>
+<v t="leo.20181018021739.2" a="E"><vh>第五週(week5)課程內容</vh>
 <v t="leo.20181018021739.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181018021739.4"><vh>第五週(week5)上課心得</vh>
+<v t="leo.20181018021739.4" a="E"><vh>第五週(week5)上課心得</vh>
 <v t="leo.20181018021739.5"><vh>心得</vh></v>
 </v>
 <v t="leo.20181018021739.6"><vh>第五週(week5)上課操作影片</vh>
@@ -110,10 +110,10 @@
 <v t="leo.20181018021739.8"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021739.9"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181018021840.1"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021840.1" a="E"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021840.2"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181018021739.10"><vh>第五週(week5)作業操作影片</vh>
+<v t="leo.20181018021739.10" a="E"><vh>第五週(week5)作業操作影片</vh>
 <v t="leo.20181018021739.11"><vh>作業操作影片</vh></v>
 </v>
 </v>
@@ -868,7 +868,7 @@ make.start()
 </t>
 <t tx="leo.20181019100042.13">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
-
+會在期中前找時間趕緊補上!!
 
 </t>
 <t tx="leo.20181019100042.2">&lt;section data-markdown&gt;
@@ -884,6 +884,16 @@ make.start()
 </t>
 <t tx="leo.20181019100042.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容&lt;/font&gt;&lt;/b&gt;
 
+*1.有關人事時地物等關鍵內容的架構安排。
+人：在第九週前皆為個人學習onshape lesson plan(12個)，第九週後開始分組作業報告。
+事：除了繪製onshape Lesson plan 的零組件，也須上網查詢裡面內容不會之單字。
+時：因為在第九週之後開始分組，各個組員會在不同地點、時間製作並使用協同，所以會對分散式版次管理依賴更高。
+地：利用可攜式系統，以因應不同電腦及地點的電腦套件設備。
+物：利用可攜式或雲端來互相觀摩及學習。
+
+*2.將onshape lesson plan 之重點寫入cmsfimly
+
+*3.繪製onshape week3 homework
 
 </t>
 <t tx="leo.20181019100042.4">&lt;section data-markdown&gt;
@@ -899,7 +909,7 @@ make.start()
 </t>
 <t tx="leo.20181019100042.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課心得&lt;/font&gt;&lt;/b&gt;
 
-
+最近在忙推甄研究所的書審，所以進度有點落後，如今書審資料在10/25已送出，接下來會趕緊加快腳步把這週及以前的進度盡快補回來。
 
 </t>
 <t tx="leo.20181019100042.6">&lt;section data-markdown&gt;
@@ -915,6 +925,6 @@ make.start()
 </t>
 <t tx="leo.20181019100042.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
 
-</t>
+會在期中前找時間趕緊補上!!</t>
 </tnodes>
 </leo_file>

@@ -97,7 +97,7 @@
 <v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181018021739.1" a="E"><vh>第五週(week5)10/12</vh>
+<v t="leo.20181018021739.1"><vh>第五週(week5)10/12</vh>
 <v t="leo.20181018021739.2" a="E"><vh>第五週(week5)課程內容</vh>
 <v t="leo.20181018021739.3"><vh>內容</vh></v>
 </v>
@@ -117,7 +117,7 @@
 <v t="leo.20181018021739.11"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019100042.1" a="E"><vh>第六週(week6)10/19</vh>
+<v t="leo.20181019100042.1"><vh>第六週(week6)10/19</vh>
 <v t="leo.20181019100042.2" a="E"><vh>第六週(week6)課程內容</vh>
 <v t="leo.20181019100042.3"><vh>內容</vh></v>
 </v>
@@ -129,6 +129,20 @@
 </v>
 <v t="leo.20181019100042.12" a="E"><vh>第六週(week6)作業操作影片</vh>
 <v t="leo.20181019100042.13"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181026102019.1"><vh>第七週(week7)10/26</vh>
+<v t="leo.20181026102019.2" a="E"><vh>第七週(week7)課程內容</vh>
+<v t="leo.20181026102019.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181026102019.4" a="E"><vh>第七週(week7)上課心得</vh>
+<v t="leo.20181026102019.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181026102019.6" a="E"><vh>第七週(week7)上課操作影片</vh>
+<v t="leo.20181026102019.7"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181026102019.8" a="E"><vh>第七週(week7)作業操作影片</vh>
+<v t="leo.20181026102019.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -893,7 +907,9 @@ make.start()
 
 *2.將onshape lesson plan 之重點寫入cmsfimly
 
-*3.繪製onshape week3 homework
+*3.將youtube video 連結放入github issue
+
+*4.回家作業：繪製onshape week3 homework、練習Lesson plan重點
 
 </t>
 <t tx="leo.20181019100042.4">&lt;section data-markdown&gt;
@@ -909,7 +925,7 @@ make.start()
 </t>
 <t tx="leo.20181019100042.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課心得&lt;/font&gt;&lt;/b&gt;
 
-最近在忙推甄研究所的書審，所以進度有點落後，如今書審資料在10/25已送出，接下來會趕緊加快腳步把這週及以前的進度盡快補回來。
+最近在忙推甄研究所的書審，所以進度有點落後，如今書審資料已送出，接下來會趕緊加快腳步把這週及以前的進度盡快補回來。
 
 </t>
 <t tx="leo.20181019100042.6">&lt;section data-markdown&gt;
@@ -925,6 +941,83 @@ make.start()
 </t>
 <t tx="leo.20181019100042.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
 
-會在期中前找時間趕緊補上!!</t>
+會在期中前找時間趕緊補上!!
+
+</t>
+<t tx="leo.20181026102019.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181026102019.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181026102019.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課內容&lt;/font&gt;&lt;/b&gt;
+
+*1.學習如果github出問題無法登入的話(原因是：網路裝置與資料庫故障)的處理方式。
+
+*2.回家作業：繪製onshape week4 homework、練習Lesson plan重點
+
+</t>
+<t tx="leo.20181026102019.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181026102019.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課心得&lt;/font&gt;&lt;/b&gt;
+
+本周有將
+1.CMSimfly網站的onshape-lesson plan裡的重點及操作影片(包含課程操作及onshape的homework)裡的整理過
+
+2.
+
+</t>
+<t tx="leo.20181026102019.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181026102019.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
+
+會在期中前找時間趕緊補上!!
+
+</t>
+<t tx="leo.20181026102019.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181026102019.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+會在期中前找時間趕緊補上!!
+
+</t>
 </tnodes>
 </leo_file>

@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423252</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423252</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-09-14T11:00:00+08:00</updated><entry><title>week1</title><link href="./2018-Fall-Project-Blog-w1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:None,2018-09-14:./2018-Fall-Project-Blog-w1.html</id><summary type="html">&lt;p&gt;利用p37中的git建立個人的github pages網站、管理個人期中作業倉儲&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用p37中的git建立個人的github pages網站、管理個人期中作業倉儲&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.進入Github帳號後，連結至&lt;a href="https://classroom.github.com/a/fGqXU9kO"&gt;mdecadp2018&lt;/a&gt;，以領取期中作業。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.將倉儲clone到近端，並用git checkout將原先的master切換成gh-pages&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3.建立個人課程網頁&lt;a href="https://github.com/mdecadp2018/site-40423252"&gt;40423252&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4.若要編輯CMSimfly 動態網頁，要輸入程式碼：python wsgi.py，接著會跑出IP位置：  https://127.0.0.1:8443/ ,用瀏覽器進入以上網址後輸入使用者密碼：admin，即可編輯。 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;5.動態網頁編輯後，須檢查靜態網頁有無更新才可進行提交遠端的動作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;6.從clone下的資料夾裡的https-server.py放入SciTE,將https://localhost:8444 在近端檢查靜態網頁&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;7.使用reveal編輯投影片、使用指令python wsgi.py編輯靜態網頁、使用pelican編輯網誌。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;8.每週都要錄製操作影片以及做作業並上傳。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;這學期是以重修生的身分來修這門課，或許是因為重修的關係，所以這次上課是有上手許多，上課過程中的操作步驟也都很熟悉，只是有些操作指令有遺忘，但也很快就解決了，本週雖然是第一次上課，但也因為有先前不及格的案例，所以不敢有任何絲毫懈怠，畢竟之前就是都把所有東西累積到最後一刻才趕不完，所以這學期將會緊跟著老師上的進度及一步一步的去完成這學期的老師交代的東西。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 

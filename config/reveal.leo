@@ -104,10 +104,10 @@
 <v t="leo.20181018021739.4" a="E"><vh>第五週(week5)上課心得</vh>
 <v t="leo.20181018021739.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181018021739.6"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021739.6" a="E"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021739.7"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181018021739.8"><vh>第五週(week5)上課操作影片</vh>
+<v t="leo.20181018021739.8" a="E"><vh>第五週(week5)上課操作影片</vh>
 <v t="leo.20181018021739.9"><vh>操作影片</vh></v>
 </v>
 <v t="leo.20181018021840.1" a="E"><vh>第五週(week5)上課操作影片</vh>
@@ -117,29 +117,32 @@
 <v t="leo.20181018021739.11"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019100042.1"><vh>第六週(week6)10/19</vh>
+<v t="leo.20181019100042.1" a="E"><vh>第六週(week6)10/19</vh>
 <v t="leo.20181019100042.2" a="E"><vh>第六週(week6)課程內容</vh>
 <v t="leo.20181019100042.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20181019100042.4" a="E"><vh>第六週(week6)上課心得</vh>
 <v t="leo.20181019100042.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181019100042.6" a="E"><vh>第六週(week6)上課操作影片</vh>
+<v t="leo.20181019100042.12" a="E"><vh>第六週(week6)作業操作影片</vh>
+<v t="leo.20181019100042.13"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181019100042.6" a="E"><vh>第六週(week6)作業操作影片</vh>
 <v t="leo.20181019100042.7"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181019100042.12" a="E"><vh>第六週(week6)作業操作影片</vh>
-<v t="leo.20181019100042.13"><vh>作業操作影片</vh></v>
+<v t="leo.20181031205659.1" a="E"><vh>第六週(week6)作業操作影片</vh>
+<v t="leo.20181031205659.2"><vh>操作影片</vh></v>
+</v>
+<v t="leo.20181031210006.1" a="E"><vh>第六週(week6)作業操作影片</vh>
+<v t="leo.20181031210006.2"><vh>操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181026102019.1"><vh>第七週(week7)10/26</vh>
+<v t="leo.20181026102019.1" a="E"><vh>第七週(week7)10/26</vh>
 <v t="leo.20181026102019.2" a="E"><vh>第七週(week7)課程內容</vh>
 <v t="leo.20181026102019.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20181026102019.4" a="E"><vh>第七週(week7)上課心得</vh>
 <v t="leo.20181026102019.5"><vh>心得</vh></v>
-</v>
-<v t="leo.20181026102019.6" a="E"><vh>第七週(week7)上課操作影片</vh>
-<v t="leo.20181026102019.7"><vh>操作影片</vh></v>
 </v>
 <v t="leo.20181026102019.8" a="E"><vh>第七週(week7)作業操作影片</vh>
 <v t="leo.20181026102019.9"><vh>作業操作影片</vh></v>
@@ -453,11 +456,19 @@ make.start()
 
 * 1.進入Github帳號後，連結至[mdecadp2018](https://classroom.github.com/a/fGqXU9kO )，以領取期中作業。
 
-* 2.建立個人課程網頁[40423252](https://github.com/mdecadp2018/site-40423252)。
+* 2.將倉儲clone到近端，並用git checkout將原先的master切換成gh-pages
 
-* 3.使用reveal編輯投影片、使用指令python wsgi.py編輯靜態網頁、使用pelican編輯網誌。
+* 3.建立個人課程網頁[40423252](https://github.com/mdecadp2018/site-40423252)。
 
-* 4.每週都要錄製操作影片以及做作業並上傳。
+* 4.若要編輯CMSimfly 動態網頁，要輸入程式碼：python wsgi.py，接著會跑出IP位置：  https://127.0.0.1:8443/ ,用瀏覽器進入以上網址後輸入使用者密碼：admin，即可編輯。 
+
+* 5.動態網頁編輯後，須檢查靜態網頁有無更新才可進行提交遠端的動作。
+
+* 6.從clone下的資料夾裡的https-server.py放入SciTE,將https://localhost:8444 在近端檢查靜態網頁
+
+* 7.使用reveal編輯投影片、使用指令python wsgi.py編輯靜態網頁、使用pelican編輯網誌。
+
+* 8.每週都要錄製操作影片以及做作業並上傳。
 
 </t>
 <t tx="leo.20180918192606.4">&lt;section data-markdown&gt;
@@ -593,7 +604,7 @@ make.start()
 
 * 3.git log --graph --oneline --all可以看到各個提交點間的關係
 
-* 4.回家作業：onshape繪製。
+* 4.隨身碟要置入p37。
 </t>
 <t tx="leo.20181001201221.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -686,9 +697,7 @@ make.start()
 
 * 3.介紹onshape操作方式。
 
-* 4.介紹Feature script
-
-* 5.回家作業：onshape繪製並錄影
+* 4.回家作業：onshape week1 homework繪製並錄影
 </t>
 <t tx="leo.20181005091514.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -773,7 +782,8 @@ make.start()
 </t>
 <t tx="leo.20181018021739.11">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
-會在期中前找時間趕緊補上!!
+&lt;iframe src="https://player.vimeo.com/video/298153018" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/298153018"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week2-homework&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="leo.20181018021739.2">&lt;section data-markdown&gt;
@@ -789,13 +799,13 @@ make.start()
 </t>
 <t tx="leo.20181018021739.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第五週(week5)上課內容&lt;/font&gt;&lt;/b&gt;
 
-* 1更新git版本(原版2.15.1.windows.2更新為2.19.1.windows.1)。
+* 1更新git版本(從原版2.15.1.windows.2更新為2.19.1.windows.1)。
 
 * 2.複習Onshape1Week1學習要點。
 
 * 3.教學Onshape1Week2學習要點。
 
-* 4.回家作業：onshape繪製並錄影、練習閱讀Onshape裡的Lesson Plan。
+* 4.回家作業：onshape week2 homework繪製並錄影、練習閱讀每週Onshape裡的Lesson Plan。
 
 </t>
 <t tx="leo.20181018021739.4">&lt;section data-markdown&gt;
@@ -880,9 +890,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019100042.13">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181019100042.13">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片part1&lt;/font&gt;&lt;/b&gt;
 
-會在期中前找時間趕緊補上!!
+&lt;iframe src="https://player.vimeo.com/video/298139062" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/298139062"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week3-homework-part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="leo.20181019100042.2">&lt;section data-markdown&gt;
@@ -939,9 +950,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181019100042.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181019100042.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片part2a&lt;/font&gt;&lt;/b&gt;
 
-會在期中前找時間趕緊補上!!
+&lt;iframe src="https://player.vimeo.com/video/298138817" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/298138817"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week3-homework-part2a&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="leo.20181026102019.1">&lt;section&gt;
@@ -965,7 +977,7 @@ make.start()
 
 *1.學習如果github出問題無法登入的話(原因是：網路裝置與資料庫故障)的處理方式。
 
-*2.回家作業：繪製onshape week4 homework、練習Lesson plan重點
+*2.回家作業：繪製onshape week4 homework、練習Lesson plan重點。
 
 </t>
 <t tx="leo.20181026102019.4">&lt;section data-markdown&gt;
@@ -982,25 +994,12 @@ make.start()
 <t tx="leo.20181026102019.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本周有將
-1.CMSimfly網站的onshape-lesson plan裡的重點及操作影片(包含課程操作及onshape的homework)裡的整理過
+1.CMSimfly網站的onshape-lesson plan裡的重點及操作影片(包含課程操作及onshape的homework)裡的整理過。
 
-2.
+2.也開始編輯blog網誌了，在編輯時遇到了無法推送進端的狀況，詢問同學之後終於解決了。
 
-</t>
-<t tx="leo.20181026102019.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+3.已將前面onshape week2、week3 homework錄製完畢。
 
-
-
-						
-</t>
-<t tx="leo.20181026102019.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)上課內容操作影片part1&lt;/font&gt;&lt;/b&gt;
-
-會在期中前找時間趕緊補上!!
 
 </t>
 <t tx="leo.20181026102019.8">&lt;section data-markdown&gt;
@@ -1017,6 +1016,40 @@ make.start()
 <t tx="leo.20181026102019.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 會在期中前找時間趕緊補上!!
+
+</t>
+<t tx="leo.20181031205659.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031205659.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片part2b&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/298139378" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/298139378"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week3-homework-part2b&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20181031210006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181031210006.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第六週(week6)作業操作影片part2c&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/298139448" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/298139448"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week3-homework-patr2c&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 </tnodes>

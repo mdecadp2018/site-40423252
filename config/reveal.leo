@@ -55,7 +55,7 @@
 <v t="leo.20181001145542.3"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20180921103047.1"><vh>第二週(week2)9/21</vh>
+<v t="leo.20180921103047.1" a="E"><vh>第二週(week2)9/21</vh>
 <v t="leo.20180921103047.2" a="E"><vh>第二週(week2)課程內容</vh>
 <v t="leo.20180921103047.3"><vh>內容</vh></v>
 </v>
@@ -97,7 +97,7 @@
 <v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181018021739.1" a="E"><vh>第五週(week5)10/12</vh>
+<v t="leo.20181018021739.1"><vh>第五週(week5)10/12</vh>
 <v t="leo.20181018021739.2" a="E"><vh>第五週(week5)課程內容</vh>
 <v t="leo.20181018021739.3"><vh>內容</vh></v>
 </v>
@@ -137,7 +137,7 @@
 <v t="leo.20181031210006.2"><vh>操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181026102019.1"><vh>第七週(week7)10/26</vh>
+<v t="leo.20181026102019.1" a="E"><vh>第七週(week7)10/26</vh>
 <v t="leo.20181026102019.2" a="E"><vh>第七週(week7)課程內容</vh>
 <v t="leo.20181026102019.3"><vh>內容</vh></v>
 </v>
@@ -146,6 +146,17 @@
 </v>
 <v t="leo.20181026102019.8" a="E"><vh>第七週(week7)作業操作影片</vh>
 <v t="leo.20181026102019.9"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181102093519.1" a="E"><vh>第八週(week8)11/02</vh>
+<v t="leo.20181102093519.2" a="E"><vh>第八週(week8)課程內容</vh>
+<v t="leo.20181102093519.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181102093519.4" a="E"><vh>第八週(week8)上課心得</vh>
+<v t="leo.20181102093519.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181102093519.6" a="E"><vh>第八週(week8)作業操作影片</vh>
+<v t="leo.20181102093519.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -1056,6 +1067,63 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/298139448" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/298139448"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week3-homework-patr2c&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20181102093519.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181102093519.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102093519.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)上課內容&lt;/font&gt;&lt;/b&gt;
+
+*1.整理作業資料。
+
+*2.回家作業：繪製onshape week5 homework、練習Lesson plan重點。
+
+</t>
+<t tx="leo.20181102093519.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102093519.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)上課心得&lt;/font&gt;&lt;/b&gt;
+
+在上一週就開始有在進行作業整理的動作了，所以本週在整理的過程並沒有花費太多時間，也將一些之前有缺漏的部分盡量補齊，好讓之後分組作業時減輕組內的負擔。
+
+
+</t>
+<t tx="leo.20181102093519.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102093519.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+
 
 </t>
 </tnodes>

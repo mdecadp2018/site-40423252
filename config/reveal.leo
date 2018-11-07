@@ -117,7 +117,7 @@
 <v t="leo.20181018021739.11"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181019100042.1"><vh>第六週(week6)10/19</vh>
+<v t="leo.20181019100042.1" a="E"><vh>第六週(week6)10/19</vh>
 <v t="leo.20181019100042.2" a="E"><vh>第六週(week6)課程內容</vh>
 <v t="leo.20181019100042.3"><vh>內容</vh></v>
 </v>
@@ -155,8 +155,14 @@
 <v t="leo.20181102093519.4" a="E"><vh>第八週(week8)上課心得</vh>
 <v t="leo.20181102093519.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181102093519.6" a="E"><vh>第八週(week8)作業操作影片</vh>
+<v t="leo.20181102093519.6"><vh>第八週(week8)作業操作影片</vh>
 <v t="leo.20181102093519.7"><vh>作業操作影片</vh></v>
+</v>
+<v t="leo.20181107203511.1"><vh>第八週(week8)作業操作影片</vh>
+<v t="leo.20181107203511.2"><vh>作業操作影片</vh></v>
+</v>
+<v t="leo.20181107203528.1" a="E"><vh>第八週(week8)作業操作影片</vh>
+<v t="leo.20181107203528.2"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -888,7 +894,7 @@ make.start()
 @others
 &lt;/section&gt;
 
-						
+
 </t>
 <t tx="leo.20181019100042.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1121,9 +1127,44 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181102093519.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)作業操作影片&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181102093519.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)作業操作影片part1&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/299415324" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/299415324"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week5-homework-part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20181107203511.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
 
+
+						
+</t>
+<t tx="leo.20181107203511.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)作業操作影片part2&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/299415528" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/299415528"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week5-homework-part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20181107203528.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181107203528.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第八週(week8)作業操作影片part3&lt;/font&gt;&lt;/b&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/299415663" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/299415663"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-onshape-week5-homework-part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 </tnodes>

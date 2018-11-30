@@ -175,11 +175,38 @@
 <v t="leo.20181109095849.6" a="E"><vh>第九週(week9)作業操作影片</vh>
 <v t="leo.20181109095849.7"><vh>作業操作影片</vh></v>
 </v>
-<v t="leo.20181109095849.8" a="E"><vh>第九週(week9)作業操作影片</vh>
-<v t="leo.20181109095849.9"><vh>作業操作影片</vh></v>
 </v>
-<v t="leo.20181109095849.10" a="E"><vh>第九週(week9)作業操作影片</vh>
-<v t="leo.20181109095849.11"><vh>作業操作影片</vh></v>
+<v t="leo.20181130104017.1"><vh>第十週(week10)11/16</vh>
+<v t="leo.20181130104017.2" a="E"><vh>第十週(week10)課程內容</vh>
+<v t="leo.20181130104017.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181130104017.4" a="E"><vh>第十週(week10)上課心得</vh>
+<v t="leo.20181130104017.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181130104017.6" a="E"><vh>第十週(week10)作業操作影片</vh>
+<v t="leo.20181130104017.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181130104539.1" a="E"><vh>第十一週(week11)11/23</vh>
+<v t="leo.20181130104539.2" a="E"><vh>第十一週(week11)課程內容</vh>
+<v t="leo.20181130104539.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181130104539.4" a="E"><vh>第十一週(week11)上課心得</vh>
+<v t="leo.20181130104539.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181130104539.6" a="E"><vh>第十一週(week11)作業操作影片</vh>
+<v t="leo.20181130104539.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181130113916.1" a="E"><vh>第十二週(week12)11/30</vh>
+<v t="leo.20181130113916.2" a="E"><vh>第十二週(week12)課程內容</vh>
+<v t="leo.20181130113916.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181130113916.4" a="E"><vh>第十二週(week12)上課心得</vh>
+<v t="leo.20181130113916.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181130113916.6" a="E"><vh>第十二週(week12)作業操作影片</vh>
+<v t="leo.20181130113916.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -1190,24 +1217,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109095849.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181109095849.11">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)作業操作影片part3&lt;/font&gt;&lt;/b&gt;
-
-![alt text](https://i.imgur.com/P1gXFg6.png "日期")
-
-
-
-</t>
 <t tx="leo.20181109095849.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1243,7 +1252,6 @@ make.start()
 
 
 
-
 </t>
 <t tx="leo.20181109095849.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1256,12 +1264,18 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109095849.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)作業操作影片part1&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181109095849.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
-
+本週為期中自評!!因此沒有onshape作業影片。
 
 </t>
-<t tx="leo.20181109095849.8">&lt;section data-markdown&gt;
+<t tx="leo.20181130104017.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181130104017.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -1272,8 +1286,159 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109095849.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)作業操作影片part2&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181130104017.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)上課內容&lt;/font&gt;&lt;/b&gt;
 
+校慶運動會全校放假一天，但是onshape作業、期末專題分組作業仍要持續進行。
+
+</t>
+<t tx="leo.20181130104017.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130104017.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)上課心得&lt;/font&gt;&lt;/b&gt;
+
+校慶運動會全校放假一天!!
+慶祝學校創校38週年!!
+
+
+</t>
+<t tx="leo.20181130104017.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130104017.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20181130104539.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181130104539.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130104539.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十一週(week11)上課內容&lt;/font&gt;&lt;/b&gt;
+
+*1.可攜式系統更新(p37版本→p37-18.12版本)。
+
+*2.建立Heroku帳號→進入 Dashboard 新增一個應用程式，而該應用程式名稱必須具備唯一性,，因為完成後，即可建立 "應用程式名稱".herokuapp.com 網站→進入應用程式對應的setting頁面查詢該應用程式的git倉儲對應的URL→在可攜式系統的環境中登入Heroku系統取得git clone、 git pull、git push等權限→git clone下來。
+
+*3.將小組倉儲與個人倉儲建立一個Fork並git clone下來。
+
+*4.將上述第2點及第3點的資料進行同步，就是將Heroku與小組倉儲建立同步(將小組clone下來的資料夾裡的檔案全部複製貼上到Herokuclone下來的資料夾)。
+
+*5.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業</t>
+<t tx="leo.20181130104539.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130104539.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十一週(week11)上課心得&lt;/font&gt;&lt;/b&gt;
+
+本周開始進入分組專題作業也建立了協同的環境以便小組在作業時更加便利以及達到同步的作用，以後在編輯時只要編輯小組倉儲即可Heroku也會跟著一起同步。
+
+</t>
+<t tx="leo.20181130104539.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130104539.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20181130113916.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181130113916.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130113916.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十2週(week12)上課內容&lt;/font&gt;&lt;/b&gt;
+
+*1.編輯分組網站頁面。
+
+*2.討論小組議題。
+
+*3.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業。</t>
+<t tx="leo.20181130113916.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130113916.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)上課心得&lt;/font&gt;&lt;/b&gt;
+
+
+
+</t>
+<t tx="leo.20181130113916.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181130113916.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
 
 </t>
 </tnodes>

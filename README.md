@@ -3,7 +3,7 @@
 
 http://mdecourse.github.io/2018fall/
 
-40423252個人網誌: https://mdecadp2018.github.io/site-40423252/content/index.html
+40423252個人網站: https://mdecadp2018.github.io/site-40423252/content/index.html
 
 40423252個人投影片: https://mdecadp2018.github.io/site-40423252/reveal/index.html#/
 

@@ -1,11 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423252</title><link href="https://mdecadp2018.github.io/site-40423252/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423252/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423252/blog/</id><updated>2018-11-09T11:00:00+08:00</updated><entry><title>week9</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w9.html" rel="alternate"></link><published>2018-11-09T11:00:00+08:00</published><updated>2018-11-09T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-09:/site-40423252/blog/2018-Fall-Project-Blog-w9.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423252</title><link href="https://mdecadp2018.github.io/site-40423252/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423252/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423252/blog/</id><updated>2018-11-30T11:00:00+08:00</updated><entry><title>week12</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w12.html" rel="alternate"></link><published>2018-11-30T11:00:00+08:00</published><updated>2018-11-30T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-30:/site-40423252/blog/2018-Fall-Project-Blog-w12.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;*1.期中自評。&lt;/p&gt;
-&lt;p&gt;*2.期末專題分組。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.編輯小組網站頁面。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.討論小組議題(確定題目、網站所要呈現內容)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;本週上課時有討論並且確定了我們這組所要做的期末專題題目，也討論了小組網站會有哪些呈現內容，未來會將期末專題有關的資訊放入在小組網站裡。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week11</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w11.html" rel="alternate"></link><published>2018-11-23T11:00:00+08:00</published><updated>2018-11-23T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-23:/site-40423252/blog/2018-Fall-Project-Blog-w11.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.可攜式系統更新(p37版本→p37-18.12版本)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.建立Heroku帳號：
+(1)建立帳號
+(2)進入 Dashboard 
+&lt;img src=https://i.imgur.com/4puWU08.png"&gt;
+(3)新增一個應用程式，而該應用程式名稱必須具備唯一性,，因為完成後，即可建立 "應用程式名稱".herokuapp.com 網站。
+&lt;img src=https://i.imgur.com/pRLtlJL.png"&gt;
+(4)進入應用程式對應的setting頁面查詢該應用程式的git倉儲對應的URL。
+&lt;img src=https://i.imgur.com/YDxdxMt.png"&gt;
+(5)在可攜式系統的環境中登入Heroku系統取得git clone、 git pull、git push等權限→git clone下來。
+(6)Heroku的clone方式：
+先輸入heroku login(跳出Heroku網站視窗登入帳號後)→heroku git:clone -a (接小組名稱)即可&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3.將小組倉儲與個人倉儲建立一個Fork並git clone下來(往後除了組長以外，組員都是用Fork版本編輯)。
+&lt;img src=https://i.imgur.com/p6Gt8Dx.png"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4.將上述第2點及第3點的資料進行同步，意思就是將Heroku與小組倉儲建立同步(將小組clone下來的資料夾裡的檔案全部複製貼上到Herokuclone下來的資料夾)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;5.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;本週開始進入分組專題作業，也建立了協同的環境以便小組在作業時更加便利以及達到同步的作用，以後在編輯時只要編輯小組倉儲即可Heroku也會跟著一起同步。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week10</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w10.html" rel="alternate"></link><published>2018-11-16T11:00:00+08:00</published><updated>2018-11-16T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-16:/site-40423252/blog/2018-Fall-Project-Blog-w10.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;p&gt;校慶運動會全校放假一天。&lt;/p&gt;
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;校慶運動會全校放假一天!!
+慶祝學校創校38週年!!&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week9</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w9.html" rel="alternate"></link><published>2018-11-09T11:00:00+08:00</published><updated>2018-11-09T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-09:/site-40423252/blog/2018-Fall-Project-Blog-w9.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+
+
+&lt;h2&gt;上課內容&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.期中自評。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.期末專題分組。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;(1)先到mde.tw進入Heroku
 &lt;img src=https://i.imgur.com/S47MQGy.png"&gt;
 (2)進入classroom進行期末專題分組
@@ -13,25 +78,45 @@
 (3)點選自己的組別並加入後就會來到以下頁面，進入紅色框框的網址後
 &lt;img src=https://i.imgur.com/PnnOcsW.png"&gt;
 (4)分組完成!
-&lt;img src=https://i.imgur.com/MPoZBMQ.png"&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week8</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w8.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40423252/blog/2018-Fall-Project-Blog-w8.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
+&lt;img src=https://i.imgur.com/MPoZBMQ.png"&gt;&lt;/p&gt;
+&lt;h2&gt;上課心得&lt;/h2&gt;
+&lt;p&gt;本週是期末考週自評，給自己評分是70分，會打這個分數給自己是因為每一週的課程我都有跟著老師上課的進度在走，對於每一週的onshape也都一直有在做作業以及閱讀每一週所介紹的課程計劃，即便過程中可能有進度上的延遲，也都盡可能地在時間內趕緊補上，但在期中考前關於onshape作業的部分仍有些許沒有完成，所以期中考自評我只打了70分，期許及警惕自己仍有更多的努力發揮空間。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week8</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w8.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40423252/blog/2018-Fall-Project-Blog-w8.html</id><summary type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;整理作業資料&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;*1.整理作業資料。&lt;/p&gt;
-&lt;p&gt;*2.回家作業：繪製onshape week5 homework、練習Lesson plan重點。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.整理作業資料。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.回家作業：繪製onshape week5 homework、練習Lesson plan重點。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
 &lt;p&gt;在上一週就開始有在進行作業整理的動作了，所以本週在整理的過程並沒有花費太多時間，也將一些之前有缺漏的部分盡量補齊，好讓之後分組作業時減輕組內的負擔。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week7</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w7.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40423252/blog/2018-Fall-Project-Blog-w7.html</id><summary type="html">&lt;p&gt;github無法順利登入之解決辦法&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;github無法順利登入之解決辦法&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;*1.學習如果github出問題無法順利登入的處理方式。(原因是：網路裝置與資料庫故障，因舞無法將近端的改版推上去)&lt;/p&gt;
-&lt;p&gt;*2.乙太網路(慣用：140.130.17.3；其他：140.130.17.2)&lt;/p&gt;
-&lt;p&gt;*3. 2001:288:6004:1::2→機械設計工程系
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.學習如果github出問題無法順利登入的處理方式。(原因是：網路裝置與資料庫故障，因舞無法將近端的改版推上去)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.乙太網路(慣用：140.130.17.3；其他：140.130.17.2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;2001:288:6004:1::2→機械設計工程系
       2001:288:6004:1::2→國立虎尾科技大學
-      2001:b000:168::1→hinet&lt;/p&gt;
-&lt;p&gt;*2.回家作業：繪製onshape week4 homework、練習Lesson plan重點。&lt;/p&gt;
+      2001:b000:168::1→hinet&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4.回家作業：繪製onshape week4 homework、練習Lesson plan重點。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
 &lt;p&gt;本周進度有將
 1.CMSimfly網頁裡的onshape-Lesson plan裡的重點及所有操作影片整理過分類。&lt;/p&gt;
@@ -41,14 +126,24 @@
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
-&lt;p&gt;*1.人：在第九週前皆為個人學習onshape lesson plan(12個)，第九週後開始分組作業報告。
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1.人：在第九週前皆為個人學習onshape lesson plan(12個)，第九週後開始分組作業報告。
 事：除了繪製onshape Lesson plan 的零組件，也須上網查詢裡面內容不會之單字。
 時：因為在第九週之後開始分組，各個組員會在不同地點、時間製作並使用協同，所以會對分散式版次管理依賴更高。
 地：利用可攜式系統，以因應不同電腦及地點的電腦套件設備。
 物：利用可攜式或雲端來互相觀摩及學習。&lt;/p&gt;
-&lt;p&gt;*2.將onshape lesson plan 之重點寫入cmsfimly&lt;/p&gt;
-&lt;p&gt;*3.將youtube video 連結放入github issue&lt;/p&gt;
-&lt;p&gt;*4.回家作業：繪製onshape week3 homework、練習Lesson plan重點&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2.將onshape lesson plan 之重點寫入cmsfimly&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3.將youtube video 連結放入github issue&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4.回家作業：繪製onshape week3 homework、練習Lesson plan重點&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
 &lt;p&gt;最近在忙推甄研究所的書審，所以進度有點落後，如今書審資料已送出，接下來會趕緊加快腳步把這週及以前的進度盡快補回來。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week5</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40423252/blog/2018-Fall-Project-Blog-w5.html</id><summary type="html">&lt;p&gt;onshape week2 繪製時鐘&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;onshape week2 繪製時鐘&lt;/p&gt;
@@ -57,7 +152,7 @@
 &lt;h2&gt;上課內容&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;1更新git版本(從原版2.15.1.windows.2更新為2.19.1.windows.1)，記得可用git version指令查詢目前之版本。&lt;/p&gt;
+&lt;p&gt;1.更新git版本(從原版2.15.1.windows.2更新為2.19.1.windows.1)，記得可用git version指令查詢目前之版本。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;2.複習Onshape Week1學習要點。&lt;/p&gt;

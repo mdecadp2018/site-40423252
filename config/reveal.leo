@@ -209,6 +209,17 @@
 <v t="leo.20181130113916.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
+<v t="leo.20181213233121.1" a="E"><vh>第十三週(week13)12/07</vh>
+<v t="leo.20181213233121.2" a="E"><vh>第十三週(week13)課程內容</vh>
+<v t="leo.20181213233121.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181213233121.4" a="E"><vh>第十三週(week13)上課心得</vh>
+<v t="leo.20181213233121.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181213233121.6" a="E"><vh>第十三週(week13)作業操作影片</vh>
+<v t="leo.20181213233121.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -1234,7 +1245,9 @@ make.start()
 
 * 2.期末專題分組建立組別[finalproject-ag1](https://github.com/mdecadp2018/finalproject-ag1)。
 
-* 3.回家作業：繪製onshape week6 homework、練習Lesson plan重點。</t>
+* 3.回家作業：繪製onshape week6 homework、練習Lesson plan重點。
+
+</t>
 <t tx="leo.20181109095849.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1248,7 +1261,9 @@ make.start()
 </t>
 <t tx="leo.20181109095849.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第九週(week9)上課心得&lt;/font&gt;&lt;/b&gt;
 
-本週是期末考週自評，給自己評分是70分，會打這個分數給自己是因為每一週的課程我都有跟著老師上課的進度在走，對於每一週的onshape也都一直有在做作業以及閱讀每一週所介紹的課程計劃，即便過程中可能有進度上的延遲，也都盡可能地在時間內趕緊補上，但在期中考前關於onshape作業的部分仍有些許沒有完成，所以期中考自評我只打了70分，期許及警惕自己仍有更多的努力發揮空間。</t>
+本週是期末考週自評，給自己評分是70分，會打這個分數給自己是因為每一週的課程我都有跟著老師上課的進度在走，對於每一週的onshape也都一直有在做作業以及閱讀每一週所介紹的課程計劃，即便過程中可能有進度上的延遲，也都盡可能地在時間內趕緊補上，但在期中考前關於onshape作業的部分仍有些許沒有完成，所以期中考自評我只打了70分，期許及警惕自己仍有更多的努力發揮空間。
+
+</t>
 <t tx="leo.20181109095849.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1318,7 +1333,9 @@ make.start()
 </t>
 <t tx="leo.20181130104017.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
-今天是校慶園遊會全校放假一天!!但仍有onshape作業但因為是小組作業因此沒有錄影會在個人及小組網站放置作業連結。</t>
+今天是校慶園遊會全校放假一天!!但仍有onshape作業但因為是小組作業因此沒有錄影會在個人及小組網站放置作業連結。
+
+</t>
 <t tx="leo.20181130104539.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1350,7 +1367,9 @@ make.start()
 
 * 4.將上述第2點及第3點的資料進行同步，意思就是將Heroku與小組倉儲建立同步(將小組clone下來的資料夾裡的檔案全部複製貼上到Herokuclone下來的資料夾)。
 
-* 5.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業</t>
+* 5.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業
+
+</t>
 <t tx="leo.20181130104539.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1400,13 +1419,13 @@ onshape作業影片內容待更新!!
 
 						
 </t>
-<t tx="leo.20181130113916.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十2週(week12)上課內容&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181130113916.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)上課內容&lt;/font&gt;&lt;/b&gt;
 
 * 1.編輯小組網站頁面。
 
 * 2.討論小組議題(確定題目、網站所要呈現內容)。
 
-* 3.回家作業：繪製onshape week7 homework、練習Lesson plan重點、期末專題分組作業。
+* 3.回家作業：繪製onshape week8 homework、練習Lesson plan重點、期末專題分組作業。
 
 </t>
 <t tx="leo.20181130113916.4">&lt;section data-markdown&gt;
@@ -1437,6 +1456,64 @@ onshape作業影片內容待更新!!
 						
 </t>
 <t tx="leo.20181130113916.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20181213233121.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181213233121.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181213233121.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1.修改小組網站的呈現內容(每周上課要點名、建立Final_Report、網站Title)。
+
+* 2.每個禮拜的期末分組作業都要有進度，並上傳至小組網站裡的[Final_Report](https://mdecadp2018.github.io/finalproject-ag1/content/Fianl_Report.html) ，需有PDF＆簡報的連結。
+
+* 3.回家作業：繪製onshape week9 homework、練習Lesson plan重點、期末專題分組作業。
+
+</t>
+<t tx="leo.20181213233121.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181213233121.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)上課心得&lt;/font&gt;&lt;/b&gt;
+
+本週開始正式在搜尋跟期末分組作有關的資料探討，感覺越來越充實了，除了要用分組的作業，之前期中前的onshape作業也一樣要持續進行，這也讓生活上又充實了不少，組長與組員們也都很盡心盡力的在完成。
+
+</t>
+<t tx="leo.20181213233121.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181213233121.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 onshape作業影片內容待更新!!
 

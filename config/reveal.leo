@@ -209,7 +209,7 @@
 <v t="leo.20181130113916.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181213233121.1" a="E"><vh>第十三週(week13)12/07</vh>
+<v t="leo.20181213233121.1"><vh>第十三週(week13)12/07</vh>
 <v t="leo.20181213233121.2" a="E"><vh>第十三週(week13)課程內容</vh>
 <v t="leo.20181213233121.3"><vh>內容</vh></v>
 </v>
@@ -218,6 +218,17 @@
 </v>
 <v t="leo.20181213233121.6" a="E"><vh>第十三週(week13)作業操作影片</vh>
 <v t="leo.20181213233121.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181220142842.1" a="E"><vh>第十四週(week14)12/14</vh>
+<v t="leo.20181220142842.2" a="E"><vh>第十四週(week14)課程內容</vh>
+<v t="leo.20181220142842.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181220142842.4" a="E"><vh>第十四週(week14)上課心得</vh>
+<v t="leo.20181220142842.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181220142842.6" a="E"><vh>第十四週(week14)作業操作影片</vh>
+<v t="leo.20181220142842.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -1514,6 +1525,60 @@ onshape作業影片內容待更新!!
 						
 </t>
 <t tx="leo.20181213233121.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20181220142842.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181220142842.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220142842.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1.練習2018 Fall期末專案示範網站裡的課程專題→電腦輔助設計議題→Inverse Kinematics練習v-rep基本操作，順便用v-rep練習Inverse Kinematics(機械手臂)的運動鏈操作。
+
+* 2.回家作業：繪製onshape week10 homework、練習Lesson plan重點、期末專題分組作業。
+
+</t>
+<t tx="leo.20181220142842.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220142842.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)上課心得&lt;/font&gt;&lt;/b&gt;
+
+本週上課練習了v-rep，對於v-rep已經也有一年沒碰了，都陌生了，就連最簡的檔案匯入跟圖檔分解都遺忘了，幸好跟著Inverse Kinematics的教學(機械手臂)漸漸的熟悉了，而下禮拜也要開始上台報告每一周的組內進度了。</t>
+<t tx="leo.20181220142842.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181220142842.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 onshape作業影片內容待更新!!
 

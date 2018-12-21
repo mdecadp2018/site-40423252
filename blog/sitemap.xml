@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/</loc>
-<lastmod>2018-12-20T14:54:48-00:00</lastmod>
+<lastmod>2018-12-21T11:40:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/archives.html</loc>
-<lastmod>2018-12-20T14:54:48-00:00</lastmod>
+<lastmod>2018-12-21T11:40:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/tags.html</loc>
-<lastmod>2018-12-20T14:54:48-00:00</lastmod>
+<lastmod>2018-12-21T11:40:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/categories.html</loc>
-<lastmod>2018-12-20T14:54:48-00:00</lastmod>
+<lastmod>2018-12-21T11:40:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/pages/about/</loc>
-<lastmod>2018-12-20T14:21:28+08:00</lastmod>
+<lastmod>2018-12-21T09:11:27+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w15.html</loc>
+<lastmod>2018-12-21T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -145,21 +152,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/category/misc.html</loc>
-<lastmod>2018-12-14T11:00:00+08:06</lastmod>
+<lastmod>2018-12-21T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/tag/2018fall.html</loc>
-<lastmod>2018-12-14T11:00:00+08:06</lastmod>
+<lastmod>2018-12-21T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40423252/blog/author/40423252-xie-meng-zhe.html</loc>
-<lastmod>2018-12-14T11:00:00+08:06</lastmod>
+<lastmod>2018-12-21T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

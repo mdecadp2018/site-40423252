@@ -220,7 +220,7 @@
 <v t="leo.20181213233121.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181220142842.1" a="E"><vh>第十四週(week14)12/14</vh>
+<v t="leo.20181220142842.1"><vh>第十四週(week14)12/14</vh>
 <v t="leo.20181220142842.2" a="E"><vh>第十四週(week14)課程內容</vh>
 <v t="leo.20181220142842.3"><vh>內容</vh></v>
 </v>
@@ -229,6 +229,17 @@
 </v>
 <v t="leo.20181220142842.6" a="E"><vh>第十四週(week14)作業操作影片</vh>
 <v t="leo.20181220142842.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181221091623.1" a="E"><vh>第十五週(week15)12/21</vh>
+<v t="leo.20181221091623.2" a="E"><vh>第十五週(week15)課程內容</vh>
+<v t="leo.20181221091623.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181221091623.4" a="E"><vh>第十週(week15)五上課心得</vh>
+<v t="leo.20181221091623.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181221091623.6" a="E"><vh>第十五週(week15)作業操作影片</vh>
+<v t="leo.20181221091623.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -1566,7 +1577,9 @@ onshape作業影片內容待更新!!
 </t>
 <t tx="leo.20181220142842.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)上課心得&lt;/font&gt;&lt;/b&gt;
 
-本週上課練習了v-rep，對於v-rep已經也有一年沒碰了，都陌生了，就連最簡的檔案匯入跟圖檔分解都遺忘了，幸好跟著Inverse Kinematics的教學(機械手臂)漸漸的熟悉了，而下禮拜也要開始上台報告每一周的組內進度了。</t>
+本週上課練習了v-rep，對於v-rep已經也有一年沒碰了，都陌生了，就連最簡的檔案匯入跟圖檔分解都遺忘了，幸好跟著Inverse Kinematics(機械手臂)的教學漸漸的熟悉了，而下禮拜也要開始上台報告每一周的組內進度了；而在做完Inverse Kinematics(機械手臂)的教學後發現不能動，最後請組員幫忙檢查，發現是忘記設定旋轉軸為Inverse Kinematics mode以及場景的部件位置有放置錯誤的關係。
+
+</t>
 <t tx="leo.20181220142842.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1579,6 +1592,62 @@ onshape作業影片內容待更新!!
 						
 </t>
 <t tx="leo.20181220142842.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20181221091623.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181221091623.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181221091623.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1.紀錄期末專題分組之組員分工所做之紀錄
+
+* 2.回家作業：繪製onshape week11 homework、練習Lesson plan重點、期末專題分組作業。
+
+</t>
+<t tx="leo.20181221091623.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181221091623.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課心得&lt;/font&gt;&lt;/b&gt;
+
+
+
+</t>
+<t tx="leo.20181221091623.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181221091623.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 onshape作業影片內容待更新!!
 

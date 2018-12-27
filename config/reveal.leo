@@ -39,7 +39,7 @@
 </v>
 </v>
 <v t="leo.20180918192606.1"><vh>第一週(week1)9/14</vh>
-<v t="leo.20180918192606.2"><vh>第一週(week1)課程內容</vh>
+<v t="leo.20180918192606.2" a="E"><vh>第一週(week1)課程內容</vh>
 <v t="leo.20180918192606.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20180918192606.4"><vh>第一週(week1)上課心得</vh>
@@ -1559,7 +1559,7 @@ onshape作業影片內容待更新!!
 </t>
 <t tx="leo.20181220142842.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)上課內容&lt;/font&gt;&lt;/b&gt;
 
-* 1.練習2018 Fall期末專案示範網站裡的課程專題→電腦輔助設計議題→Inverse Kinematics練習v-rep基本操作，順便用v-rep練習Inverse Kinematics(機械手臂)的運動鏈操作。
+* 1.練習2018 Fall期末專案示範網站裡的課程專題→電腦輔助設計議題→Inverse Kinematics練習v-rep基本操作，順便用v-rep練習[Inverse Kinematics](http://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm) (機械手臂)的運動鏈操作。
 
 * 2.回家作業：繪製onshape week10 homework、練習Lesson plan重點、期末專題分組作業。
 
@@ -1577,7 +1577,7 @@ onshape作業影片內容待更新!!
 </t>
 <t tx="leo.20181220142842.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)上課心得&lt;/font&gt;&lt;/b&gt;
 
-本週上課練習了v-rep，對於v-rep已經也有一年沒碰了，都陌生了，就連最簡的檔案匯入跟圖檔分解都遺忘了，幸好跟著Inverse Kinematics(機械手臂)的教學漸漸的熟悉了，而下禮拜也要開始上台報告每一周的組內進度了；而在做完Inverse Kinematics(機械手臂)的教學後發現不能動，最後請組員幫忙檢查，發現是忘記設定旋轉軸為Inverse Kinematics mode以及場景的部件位置有放置錯誤的關係。
+本週上課練習了v-rep，對於v-rep已經也有一年沒碰了，也因為當初就非常地不熟悉，所以現在都陌生了，幸好跟著Inverse Kinematics(機械手臂)的教學漸漸的熟悉了，而下禮拜也要開始上台報告每一周的組內進度了；而在做完Inverse Kinematics(機械手臂)的教學後發現不能動，最後請組員幫忙檢查，發現是忘記設定旋轉軸為Inverse Kinematics mode以及場景的部件位置有放置錯誤的關係。
 
 </t>
 <t tx="leo.20181220142842.6">&lt;section data-markdown&gt;
@@ -1633,9 +1633,7 @@ onshape作業影片內容待更新!!
 </t>
 <t tx="leo.20181221091623.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課心得&lt;/font&gt;&lt;/b&gt;
 
-
-
-</t>
+小組終於在這週建立好了雲端協同的報告檔了，在本週老師檢查時，發現無罰得知小組內容是由誰編輯的，之後也找到了查看的步驟，詳細皆在小組網站裡。</t>
 <t tx="leo.20181221091623.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1647,7 +1645,7 @@ onshape作業影片內容待更新!!
 
 						
 </t>
-<t tx="leo.20181221091623.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)作業操作影片&lt;/font&gt;&lt;/b&gt;
+<t tx="leo.20181221091623.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 onshape作業影片內容待更新!!
 

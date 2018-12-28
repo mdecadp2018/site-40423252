@@ -231,15 +231,26 @@
 <v t="leo.20181220142842.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
-<v t="leo.20181221091623.1" a="E"><vh>第十五週(week15)12/21</vh>
+<v t="leo.20181221091623.1"><vh>第十五週(week15)12/21</vh>
 <v t="leo.20181221091623.2" a="E"><vh>第十五週(week15)課程內容</vh>
 <v t="leo.20181221091623.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20181221091623.4" a="E"><vh>第十週(week15)五上課心得</vh>
+<v t="leo.20181221091623.4" a="E"><vh>第十五週(week15)上課心得</vh>
 <v t="leo.20181221091623.5"><vh>心得</vh></v>
 </v>
 <v t="leo.20181221091623.6" a="E"><vh>第十五週(week15)作業操作影片</vh>
 <v t="leo.20181221091623.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
+<v t="leo.20181228091802.1"><vh>第十六週(week16)12/28</vh>
+<v t="leo.20181228091802.2" a="E"><vh>第十六週(week16)課程內容</vh>
+<v t="leo.20181228091802.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20181228091802.4" a="E"><vh>第十六週(week16)上課心得</vh>
+<v t="leo.20181228091802.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20181228091802.6" a="E"><vh>第十六週(week16)作業操作影片</vh>
+<v t="leo.20181228091802.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -1633,7 +1644,9 @@ onshape作業影片內容待更新!!
 </t>
 <t tx="leo.20181221091623.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)上課心得&lt;/font&gt;&lt;/b&gt;
 
-小組終於在這週建立好了雲端協同的報告檔了，在本週老師檢查時，發現無罰得知小組內容是由誰編輯的，之後也找到了查看的步驟，詳細皆在小組網站裡。</t>
+小組終於在這週建立好了雲端協同的報告檔了，在本週老師檢查時，發現無罰得知小組內容是由誰編輯的，之後也找到了查看的步驟，詳細皆在小組網站裡。
+
+</t>
 <t tx="leo.20181221091623.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1646,6 +1659,63 @@ onshape作業影片內容待更新!!
 						
 </t>
 <t tx="leo.20181221091623.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20181228091802.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20181228091802.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228091802.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1.期末考週前每人需準備一支3分鐘的影片，進行課程學習報告，並且上船各組期末分組網站。
+
+* 2.期末考週，以最多15分鐘，利用網際簡報方式，報告這學期所學習之內容、期末分組規劃、具體完成任務、各組員分工情況、Final report編輯流程。
+
+* 3.回家作業：繪製onshape week12 homework、練習Lesson plan重點、期末專題分組作業。
+
+</t>
+<t tx="leo.20181228091802.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228091802.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)上課心得&lt;/font&gt;&lt;/b&gt;
+小組終於在這週建立好了雲端協同的報告檔了，在本週老師檢查時，發現無罰得知小組內容是由誰編輯的，之後也找到了查看的步驟，詳細皆在小組網站裡。
+
+</t>
+<t tx="leo.20181228091802.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181228091802.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 onshape作業影片內容待更新!!
 

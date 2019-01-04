@@ -253,6 +253,17 @@
 <v t="leo.20181228091802.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
+<v t="leo.20190104093431.1" a="E"><vh>第十七週(week17)01/04</vh>
+<v t="leo.20190104093431.2" a="E"><vh>第十七週(week17)課程內容</vh>
+<v t="leo.20190104093431.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190104093431.4" a="E"><vh>第十七週(week17)上課心得</vh>
+<v t="leo.20190104093431.5"><vh>心得</vh></v>
+</v>
+<v t="leo.20190104093431.6" a="E"><vh>第十七週(week17)作業操作影片</vh>
+<v t="leo.20190104093431.7"><vh>作業操作影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -1686,7 +1697,7 @@ onshape作業影片內容待更新!!
 
 * 2.期末考週，以最多15分鐘，利用網際簡報方式，報告這學期所學習之內容、期末分組規劃、具體完成任務、各組員分工情況、Final report編輯流程。
 
-* 3.回家作業：繪製onshape week12 homework、練習Lesson plan重點、期末專題分組作業。
+* 3.回家作業：繪製onshape week12 homework、練習Lesson plan重點、期末專題分組作業、錄製3分鐘的課程學習報告。
 
 </t>
 <t tx="leo.20181228091802.4">&lt;section data-markdown&gt;
@@ -1717,6 +1728,64 @@ onshape作業影片內容待更新!!
 						
 </t>
 <t tx="leo.20181228091802.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)作業操作影片&lt;/font&gt;&lt;/b&gt;
+
+onshape作業影片內容待更新!!
+
+</t>
+<t tx="leo.20190104093431.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						
+</t>
+<t tx="leo.20190104093431.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104093431.3">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)上課內容&lt;/font&gt;&lt;/b&gt;
+
+* 1.。
+
+* 2.。
+
+* 3.回家作業：期末專題分組作業。
+
+</t>
+<t tx="leo.20190104093431.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104093431.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)上課心得&lt;/font&gt;&lt;/b&gt;
+
+
+
+</t>
+<t tx="leo.20190104093431.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190104093431.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)作業操作影片&lt;/font&gt;&lt;/b&gt;
 
 onshape作業影片內容待更新!!
 

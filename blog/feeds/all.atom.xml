@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423252</title><link href="https://mdecadp2018.github.io/site-40423252/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423252/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423252/blog/</id><updated>2019-01-04T11:00:00+08:00</updated><entry><title>week16</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w17.html" rel="alternate"></link><published>2019-01-04T11:00:00+08:00</published><updated>2019-01-04T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2019-01-04:/site-40423252/blog/2018-Fall-Project-Blog-w17.html</id><summary type="html">&lt;p&gt;期末考週前哨站&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期末考週前哨站&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423252</title><link href="https://mdecadp2018.github.io/site-40423252/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423252/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423252/blog/</id><updated>2019-01-04T11:00:00+08:00</updated><entry><title>week17</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w17.html" rel="alternate"></link><published>2019-01-04T11:00:00+08:00</published><updated>2019-01-04T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2019-01-04:/site-40423252/blog/2018-Fall-Project-Blog-w17.html</id><summary type="html">&lt;p&gt;期末考週前哨站-最中完成品&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期末考週前哨站-最中完成品&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
 &lt;p&gt;期末專題分組作業。&lt;/p&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
-&lt;p&gt;本週仍然持續進行期末專題，這週因為機械手臂的OnShape圖已繪製完成，因此開始進行v-rep模擬分析，藉由第14週的Inverse Kinematics(反向運動學-機械手臂)的教學步驟模擬一次，模擬完畢後，是可以做動的，但因為做動的過程複雜，照理說應該在點選做動的播放鍵後，零組件應該要進行一個持續性的做動過程，可我們必須要手動一步一步操作下指令才能做動，因此為了讓機械手臂更簡便的做動，決定新增一底座與一曲柄連桿機構，而第二代的零組件在v-rep模擬分析過程中發生了一個讓人頭疼的問題是Dummy的連接擺放位置，到目前為止還是找不出原因所在。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week16</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-12-28:/site-40423252/blog/2018-Fall-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;期末考週前哨站&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;期末考週前哨站&lt;/p&gt;
+&lt;p&gt;本週仍然持續進行期末專題，這週因為機械手臂的OnShape圖已繪製完成，因此開始進行v-rep模擬分析，藉由第14週的Inverse Kinematics(反向運動學-機械手臂)的教學步驟模擬一次，模擬完畢後，是可以做動的，但因為做動的過程複雜，照理說應該在點選做動的播放鍵後，零組件應該要進行一個持續性的做動過程，可我們必須要手動一步一步操作下指令才能做動，因此為了讓機械手臂更簡便的做動，決定新增一底座與一曲柄連桿機構，而第二代的零組件在v-rep模擬分析過程中發生了一個讓人頭疼的問題是Dummy的連接擺放位置，到目前為止還是找不出原因所在。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week16</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w16.html" rel="alternate"></link><published>2018-12-28T11:00:00+08:00</published><updated>2018-12-28T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-12-28:/site-40423252/blog/2018-Fall-Project-Blog-w16.html</id><summary type="html">&lt;p&gt;期末考週前哨站-錄製本學期學習報告影片&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期末考週前哨站-錄製本學期學習報告影片&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -53,8 +53,10 @@
 &lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
 &lt;p&gt;本週練習了v-rep，對於v-rep已經也有一年沒碰了，也因為當初就非常地不熟悉，所以現在都陌生了，幸好跟著Inverse Kinematics(反向運動學-機械手臂)的教學漸漸的熟悉了，而最後的成品算是可以做動，但沒有很完美，只是有限制的做動，然而其實在一開始做完Inverse Kinematics(反向運動學-機械手臂)的教學後發現不能動，最後請組員幫忙檢查，發現是忘記設定旋轉軸為Inverse Kinematics mode以及場景的部件位置有放置錯誤的關係。
-而下禮拜也要開始上台報告每一週的組內進度了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week13</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w13.html" rel="alternate"></link><published>2018-12-07T11:00:00+08:00</published><updated>2018-12-07T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-12-07:/site-40423252/blog/2018-Fall-Project-Blog-w13.html</id><summary type="html">&lt;p&gt;修改小組網站頁面&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;修改小組網站頁面&lt;/p&gt;
+而下禮拜也要開始上台報告每一週的組內進度了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week13</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w13.html" rel="alternate"></link><published>2018-12-07T11:00:00+08:00</published><updated>2018-12-07T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-12-07:/site-40423252/blog/2018-Fall-Project-Blog-w13.html</id><summary type="html">&lt;p&gt;開始在蒐集跟期末分組專題有關的資料及探討
+建立Final_Report&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;開始在蒐集跟期末分組專題有關的資料及探討
+建立Final_Report&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -71,8 +73,8 @@
 &lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
 &lt;p&gt;在上週分完工之後也開始進行各自的期末分組專題的分工作業了，開始在蒐集跟期末分組專題有關的資料及探討，感覺越來越充實了，除了要用分組的作業，之前期中前的onshape作業也一樣要持續進行，這也讓生活上又充實了不少，組長與組員們也都很盡心盡力的在完成。
-除此之外，這週在小組網站建立了Final_Report，藉由雲端word，讓組員們可以各自同時在不同地方編輯同一份報告，而且此功能會記錄編輯者、編輯紀錄、編輯日期、編輯時間，如此一來更可以方便掌握分組進度及效率。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week12</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w12.html" rel="alternate"></link><published>2018-11-30T11:00:00+08:00</published><updated>2018-11-30T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-30:/site-40423252/blog/2018-Fall-Project-Blog-w12.html</id><summary type="html">&lt;p&gt;編輯小組網站頁面&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;編輯小組網站頁面&lt;/p&gt;
+除此之外，這週在小組網站建立了Final_Report，藉由雲端word，讓組員們可以各自同時在不同地方編輯同一份報告，而且此功能會記錄編輯者、編輯紀錄、編輯日期、編輯時間，如此一來更可以方便掌握分組進度及效率。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week12</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w12.html" rel="alternate"></link><published>2018-11-30T11:00:00+08:00</published><updated>2018-11-30T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-30:/site-40423252/blog/2018-Fall-Project-Blog-w12.html</id><summary type="html">&lt;p&gt;編輯小組網站頁面、工作內容分配&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;編輯小組網站頁面、工作內容分配&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -88,8 +90,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
-&lt;p&gt;在上週建立好小組網站之後，這週上課有討論並且確定了我們這組所要做的期末專題題目-機械手臂，也討論了小組網站所要呈現的內容，未來會將期末專題有關的各種資訊放在小組網站裡，以及進行組員工作內容分配計劃。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week11</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w11.html" rel="alternate"></link><published>2018-11-23T11:00:00+08:00</published><updated>2018-11-23T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-23:/site-40423252/blog/2018-Fall-Project-Blog-w11.html</id><summary type="html">&lt;p&gt;開始期末分組作業&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;開始期末分組作業&lt;/p&gt;
+&lt;p&gt;在上週建立好小組網站之後，這週上課有討論並且確定了我們這組所要做的期末專題題目-機械手臂，也討論了小組網站所要呈現的內容，未來會將期末專題有關的各種資訊放在小組網站裡，以及進行組員工作內容分配計劃。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week11</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w11.html" rel="alternate"></link><published>2018-11-23T11:00:00+08:00</published><updated>2018-11-23T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-23:/site-40423252/blog/2018-Fall-Project-Blog-w11.html</id><summary type="html">&lt;p&gt;建立小組倉儲&amp;amp;網站&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;建立小組倉儲&amp;amp;網站&lt;/p&gt;
 
 
 &lt;h2&gt;上課內容&lt;/h2&gt;
@@ -122,7 +124,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;上課心得&lt;/h2&gt;
-&lt;p&gt;本週仍然持續對於期末小組作業邁進，而且依照老師的要求錄製了3分鐘的課程學習報告影片，錄製影片前也順便看了這學期的所有推送紀錄內容，也順便做一個總瀏覽讓自己更了解這學期針對這門課程所學的東西有哪些。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week10</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w10.html" rel="alternate"></link><published>2018-11-16T11:00:00+08:00</published><updated>2018-11-16T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-16:/site-40423252/blog/2018-Fall-Project-Blog-w10.html</id><summary type="html">&lt;p&gt;校慶運動會全校放假一天。&lt;/p&gt;
+&lt;p&gt;本週開始進入分組專題作業，也建立了一個協同的環境以便小組在作業時更加便利以及達到同步的作用，以後在編輯時只要編輯小組倉儲即可Heroku也會跟著一起同步。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week10</title><link href="https://mdecadp2018.github.io/site-40423252/blog/2018-Fall-Project-Blog-w10.html" rel="alternate"></link><published>2018-11-16T11:00:00+08:00</published><updated>2018-11-16T11:00:00+08:00</updated><author><name>40423252-謝孟哲</name></author><id>tag:mdecadp2018.github.io,2018-11-16:/site-40423252/blog/2018-Fall-Project-Blog-w10.html</id><summary type="html">&lt;p&gt;校慶運動會全校放假一天。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;校慶運動會全校放假一天。&lt;/p&gt;
 
 

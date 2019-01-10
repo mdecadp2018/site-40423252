@@ -62,9 +62,6 @@
 <v t="leo.20180921103047.4" a="E"><vh>第二週(week2)上課心得</vh>
 <v t="leo.20180921103047.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20180921103047.6" a="E"><vh>第二週(week2)作業操作影片</vh>
-<v t="leo.20180921103047.7"><vh>操作影片</vh></v>
-</v>
 </v>
 <v t="leo.20181001201221.1"><vh>第三週(week3)9/28</vh>
 <v t="leo.20181001201221.2" a="E"><vh>第三週(week3)課程內容</vh>
@@ -75,9 +72,6 @@
 </v>
 <v t="leo.20181001201221.6" a="E"><vh>第三週(week3)上課操作影片</vh>
 <v t="leo.20181001201221.7"><vh>操作影片</vh></v>
-</v>
-<v t="leo.20181001201636.1" a="E"><vh>第三週(week3)作業操作影片</vh>
-<v t="leo.20181001201636.2"><vh>作業操作影片</vh></v>
 </v>
 </v>
 <v t="leo.20181005091514.1"><vh>第四週(week4)10/05</vh>
@@ -90,11 +84,8 @@
 <v t="leo.20181005091514.6" a="E"><vh>第四週(week4)上課操作影片</vh>
 <v t="leo.20181005091514.7"><vh>操作影片</vh></v>
 </v>
-<v t="leo.20181011205516.1"><vh>第四週(week4)上課操作影片</vh>
+<v t="leo.20181011205516.1" a="E"><vh>第四週(week4)上課操作影片</vh>
 <v t="leo.20181011205516.2"><vh>操作影片</vh></v>
-</v>
-<v t="leo.20181005091514.8" a="E"><vh>第四週(week4)作業操作影片</vh>
-<v t="leo.20181005091514.9"><vh>作業操作影片</vh></v>
 </v>
 </v>
 <v t="leo.20181018021739.1"><vh>第五週(week5)10/12</vh>
@@ -144,9 +135,6 @@
 <v t="leo.20181026102019.4" a="E"><vh>第七週(week7)上課心得</vh>
 <v t="leo.20181026102019.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181026102019.8" a="E"><vh>第七週(week7)作業操作影片</vh>
-<v t="leo.20181026102019.9"><vh>作業操作影片</vh></v>
-</v>
 </v>
 <v t="leo.20181102093519.1"><vh>第八週(week8)11/02</vh>
 <v t="leo.20181102093519.2" a="E"><vh>第八週(week8)課程內容</vh>
@@ -194,9 +182,6 @@
 <v t="leo.20181130104539.4" a="E"><vh>第十一週(week11)上課心得</vh>
 <v t="leo.20181130104539.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181130104539.6" a="E"><vh>第十一週(week11)作業操作影片</vh>
-<v t="leo.20181130104539.7"><vh>作業操作影片</vh></v>
-</v>
 </v>
 <v t="leo.20181130113916.1"><vh>第十二週(week12)11/30</vh>
 <v t="leo.20181130113916.2" a="E"><vh>第十二週(week12)課程內容</vh>
@@ -204,9 +189,6 @@
 </v>
 <v t="leo.20181130113916.4" a="E"><vh>第十二週(week12)上課心得</vh>
 <v t="leo.20181130113916.5"><vh>心得</vh></v>
-</v>
-<v t="leo.20181130113916.6" a="E"><vh>第十二週(week12)作業操作影片</vh>
-<v t="leo.20181130113916.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 <v t="leo.20181213233121.1"><vh>第十三週(week13)12/07</vh>
@@ -216,9 +198,6 @@
 <v t="leo.20181213233121.4" a="E"><vh>第十三週(week13)上課心得</vh>
 <v t="leo.20181213233121.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181213233121.6" a="E"><vh>第十三週(week13)作業操作影片</vh>
-<v t="leo.20181213233121.7"><vh>作業操作影片</vh></v>
-</v>
 </v>
 <v t="leo.20181220142842.1"><vh>第十四週(week14)12/14</vh>
 <v t="leo.20181220142842.2" a="E"><vh>第十四週(week14)課程內容</vh>
@@ -226,9 +205,6 @@
 </v>
 <v t="leo.20181220142842.4" a="E"><vh>第十四週(week14)上課心得</vh>
 <v t="leo.20181220142842.5"><vh>心得</vh></v>
-</v>
-<v t="leo.20181220142842.6" a="E"><vh>第十四週(week14)作業操作影片</vh>
-<v t="leo.20181220142842.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 <v t="leo.20181221091623.1"><vh>第十五週(week15)12/21</vh>
@@ -238,30 +214,21 @@
 <v t="leo.20181221091623.4" a="E"><vh>第十五週(week15)上課心得</vh>
 <v t="leo.20181221091623.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181221091623.6" a="E"><vh>第十五週(week15)作業操作影片</vh>
-<v t="leo.20181221091623.7"><vh>作業操作影片</vh></v>
 </v>
-</v>
-<v t="leo.20181228091802.1" a="E"><vh>第十六週(week16)12/28</vh>
+<v t="leo.20181228091802.1"><vh>第十六週(week16)12/28</vh>
 <v t="leo.20181228091802.2" a="E"><vh>第十六週(week16)課程內容</vh>
 <v t="leo.20181228091802.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20181228091802.4" a="E"><vh>第十六週(week16)上課心得</vh>
 <v t="leo.20181228091802.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181228091802.6" a="E"><vh>第十六週(week16)作業操作影片</vh>
-<v t="leo.20181228091802.7"><vh>作業操作影片</vh></v>
 </v>
-</v>
-<v t="leo.20190104093431.1" a="E"><vh>第十七週(week17)01/04</vh>
+<v t="leo.20190104093431.1"><vh>第十七週(week17)01/04</vh>
 <v t="leo.20190104093431.2" a="E"><vh>第十七週(week17)課程內容</vh>
 <v t="leo.20190104093431.3"><vh>內容</vh></v>
 </v>
 <v t="leo.20190104093431.4" a="E"><vh>第十七週(week17)上課心得</vh>
 <v t="leo.20190104093431.5"><vh>心得</vh></v>
-</v>
-<v t="leo.20190104093431.6" a="E"><vh>第十七週(week17)作業操作影片</vh>
-<v t="leo.20190104093431.7"><vh>作業操作影片</vh></v>
 </v>
 </v>
 </v>
@@ -664,22 +631,6 @@ make.start()
 本週上課學到如何在Pelican裡編輯blog還有如何利用ShareX截圖並編輯CMSimfly網站外還有如何維護reveal＆blog；而在這週上課時忘記在程式碼輸入python wsgi.py來進入這個環境去作業導致最後上傳完畢後想要編輯CMSimfly網站而進不去 這個網站(https://127.0.0.1:8443/) 進行修改，而在詢問老師過後也得到了解決，因為這個失誤不僅讓我往後要謹慎每個操作步驟，也學習到了此失誤的解決方案。
 
 </t>
-<t tx="leo.20180921103047.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180921103047.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第二週(week2)onshape練習操作影片&lt;/font&gt;&lt;/b&gt;
-
-會在期中前找時間趕緊補上!!
-
-</t>
 <t tx="leo.20181001145542.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -754,22 +705,6 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/292698596" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/292698596"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week3 上課內容操作影片&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
-<t tx="leo.20181001201636.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181001201636.2">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第三週(week3)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-會在期中前找時間趕緊補上!!
-
 </t>
 <t tx="leo.20181001204421.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -846,22 +781,6 @@ make.start()
 
 &lt;iframe src="https://player.vimeo.com/video/294568623" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/294568623"&gt;國立虎尾科技大學-機械設計工程系-電腦輔助設計實習-2a-40423252-week4 上課內容操作影片&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
-<t tx="leo.20181005091514.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181005091514.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第四週(week4)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-會在期中前找時間趕緊補上!!
-
 </t>
 <t tx="leo.20181011205516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1122,22 +1041,6 @@ make.start()
 
 3.已將前面onshape week2、week3 homework錄製完畢。
 
-
-</t>
-<t tx="leo.20181026102019.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181026102019.9">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第七週(week7)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-會在期中前找時間趕緊補上!!
 
 </t>
 <t tx="leo.20181031205659.1">&lt;section data-markdown&gt;
@@ -1430,22 +1333,6 @@ make.start()
 本週開始進入分組專題作業，也建立了一個協同的環境以便小組在作業時更加便利以及達到同步的作用，以後在編輯時只要編輯小組倉儲即可Heroku也會跟著一起同步。
 
 </t>
-<t tx="leo.20181130104539.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181130104539.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十週(week10)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
-
-</t>
 <t tx="leo.20181130113916.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1486,22 +1373,6 @@ onshape作業影片內容待更新!!
 <t tx="leo.20181130113916.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)上課心得&lt;/font&gt;&lt;/b&gt;
 
 在上週建立好小組網站之後，這週上課有討論並且確定了我們這組所要做的期末專題題目-機械手臂，也討論了小組網站所要呈現的內容，未來會將期末專題有關的各種資訊放在小組網站裡，以及進行組員工作內容分配計劃。
-
-</t>
-<t tx="leo.20181130113916.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181130113916.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十二週(week12)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
 
 </t>
 <t tx="leo.20181213233121.1">&lt;section&gt;
@@ -1547,22 +1418,6 @@ onshape作業影片內容待更新!!
 除此之外，這週在小組網站建立了Final_Report，藉由雲端word，讓組員們可以各自同時在不同地方編輯同一份報告，而且此功能會記錄編輯者、編輯紀錄、編輯日期、編輯時間，如此一來更可以方便掌握分組進度及效率。
 
 </t>
-<t tx="leo.20181213233121.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181213233121.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十三週(week13)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
-
-</t>
 <t tx="leo.20181220142842.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1604,22 +1459,6 @@ onshape作業影片內容待更新!!
 而下禮拜也要開始上台報告每一週的組內進度了。
 
 </t>
-<t tx="leo.20181220142842.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181220142842.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十四週(week14)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
-
-</t>
 <t tx="leo.20181221091623.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1659,22 +1498,6 @@ onshape作業影片內容待更新!!
 
 原定在今天要進行小組進度報告，但可能因為普遍各組仍有進度的落後，因此就沒有小組進度報告。
 而在這週雲端word的報告檔處理好了，其實早在前幾週，報告檔一直都有問題，所以大概有兩週的報告資料沒有上傳，但在也好在想到有雲端word這個功能，也把之前所整理的資料都編輯上去了，但在本週老師檢查時，發現我們的雲端word並無法得知報告內容是由誰編輯的，之後也找到了查看紀錄的地方，也將察看紀錄的詳細步驟放在小組網站的Final_Report裡，這時發現原來雲端word內也會記錄我們每個人的編輯紀錄。
-
-</t>
-<t tx="leo.20181221091623.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181221091623.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十五週(week15)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
 
 </t>
 <t tx="leo.20181228091802.1">&lt;section&gt;
@@ -1719,22 +1542,6 @@ onshape作業影片內容待更新!!
 本週仍然持續對於期末小組作業邁進，而且依照老師的要求錄製了3分鐘的課程學習報告影片，錄製影片前也順便看了這學期的所有推送紀錄內容，也順便做一個總瀏覽讓自己更了解這學期針對這門課程所學的東西有哪些。
 
 </t>
-<t tx="leo.20181228091802.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20181228091802.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十六週(week16)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
-
-</t>
 <t tx="leo.20190104093431.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1771,22 +1578,6 @@ onshape作業影片內容待更新!!
 <t tx="leo.20190104093431.5">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)上課心得&lt;/font&gt;&lt;/b&gt;
 
 本週仍然持續進行期末專題，這週因為機械手臂的OnShape圖已繪製完成，因此開始進行v-rep模擬分析，藉由第14週的Inverse Kinematics(反向運動學-機械手臂)的教學步驟模擬一次，模擬完畢後，是可以做動的，但因為做動的過程複雜，照理說應該在點選做動的播放鍵後，零組件應該要進行一個持續性的做動過程，可我們必須要手動一步一步操作下指令才能做動，因此為了讓機械手臂更簡便的做動，決定新增一底座與一曲柄連桿機構，而第二代的零組件在v-rep模擬分析過程中發生了一個讓人頭疼的問題是Dummy的連接擺放位置，到目前為止還是找不出原因所在。
-
-</t>
-<t tx="leo.20190104093431.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20190104093431.7">## &lt;b&gt;&lt;font color="#00DDDD"&gt;第十七週(week17)作業操作影片&lt;/font&gt;&lt;/b&gt;
-
-onshape作業影片內容待更新!!
 
 </t>
 </tnodes>
